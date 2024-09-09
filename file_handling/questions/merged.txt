@@ -1,0 +1,15 @@
+This is a test for copy
+Hello
+World!
+Data Science
+Machine Learning
+este é um teste
+para contar 
+quantas palavras tem
+First Line
+Second Line
+Third Line
+Fourth Line
+this is a new log entry.
+this is a new log entry.
+

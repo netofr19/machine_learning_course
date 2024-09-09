@@ -1,0 +1,28 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "is_student": false,
+    "courses": [
+        {
+            "name": "Math",
+            "grade": "A"
+        },
+        {
+            "name": "Science",
+            "grade": "B+"
+        },
+        {
+            "name": "History",
+            "grade": "A-"
+        }
+    ],
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "zipcode": "12345"
+    },
+    "phone_numbers": [
+        "123-456-7890",
+        "987-654-3210"
+    ]
+}
