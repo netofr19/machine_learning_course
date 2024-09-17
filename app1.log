@@ -1,0 +1,15 @@
+2024-09-17 15:46:30 - ArithmeticApp - DEBUG - Adding 10 + 15 = 25
+2024-09-17 15:46:30 - ArithmeticApp - DEBUG - Subtracting 15 - 10 = 5
+2024-09-17 15:46:30 - ArithmeticApp - DEBUG - Multiplying 5 * 3 = 15
+2024-09-17 15:46:30 - ArithmeticApp - DEBUG - Dividing 50 / 10 = 5.0
+2024-09-17 15:47:21 - ArithmeticApp - DEBUG - Adding 10 + 15 = 25
+2024-09-17 15:47:21 - ArithmeticApp - DEBUG - Subtracting 15 - 10 = 5
+2024-09-17 15:47:21 - ArithmeticApp - DEBUG - Multiplying 5 * 3 = 15
+2024-09-17 15:47:21 - ArithmeticApp - DEBUG - Dividing 50 / 10 = 5.0
+2024-09-17 15:48:51 - ArithmeticApp - DEBUG - Adding 10 + 15 = 25
+2024-09-17 15:48:51 - ArithmeticApp - DEBUG - Subtracting 15 - 10 = 5
+2024-09-17 15:48:51 - ArithmeticApp - DEBUG - Multiplying 5 * 3 = 15
+2024-09-17 15:48:53 - ArithmeticApp - DEBUG - Adding 10 + 15 = 25
+2024-09-17 15:48:53 - ArithmeticApp - DEBUG - Subtracting 15 - 10 = 5
+2024-09-17 15:48:53 - ArithmeticApp - DEBUG - Multiplying 5 * 3 = 15
+2024-09-17 15:48:53 - root - ERROR - Division by zero error
