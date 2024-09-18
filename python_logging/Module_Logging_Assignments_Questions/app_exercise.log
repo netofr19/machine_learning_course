@@ -1,15 +1,5 @@
-2024-09-17 15:57:51 - root - DEBUG - This is a debug message
-2024-09-17 15:57:51 - root - INFO - This is a info message
-2024-09-17 15:57:51 - root - WARNING - This is a warning(message
-2024-09-17 15:57:51 - root - ERROR - This is a error message
-2024-09-17 15:57:51 - root - CRITICAL - This is a critical message
-2024-09-17 15:57:56 - root - DEBUG - This is a debug message
-2024-09-17 15:57:56 - root - INFO - This is a info message
-2024-09-17 15:57:56 - root - WARNING - This is a warning(message
-2024-09-17 15:57:56 - root - ERROR - This is a error message
-2024-09-17 15:57:56 - root - CRITICAL - This is a critical message
-2024-09-17 15:58:02 - root - DEBUG - This is a debug message
-2024-09-17 15:58:02 - root - INFO - This is a info message
-2024-09-17 15:58:02 - root - WARNING - This is a warning(message
-2024-09-17 15:58:02 - root - ERROR - This is a error message
-2024-09-17 15:58:02 - root - CRITICAL - This is a critical message
+2024-09-17 19:40:22 - root - DEBUG - This is a debug message
+2024-09-17 19:40:22 - root - INFO - This is a info message
+2024-09-17 19:40:22 - root - WARNING - This is a warning(message
+2024-09-17 19:40:22 - root - ERROR - This is a error message
+2024-09-17 19:40:22 - root - CRITICAL - This is a critical message
